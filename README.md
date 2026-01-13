@@ -1,6 +1,4 @@
-# My-WebsiteHi, I’m Ahmed Jaballah, also known as XdKeerXd — an indie / vibe-driven developer who builds games, tools, and web apps by experimenting, iterating fast, and learning by doing.
 
-I focus on creative development, game mechanics, and AI-assisted workflows.
 
 🧠 About Me
 
